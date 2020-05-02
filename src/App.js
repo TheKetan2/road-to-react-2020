@@ -63,6 +63,7 @@ class App extends Component {
   }
 
   render() {
+    const { searchTerm, list } = this.state;
     return (
       // <div>
       //   <h1>My Hacker Stories</h1>
@@ -75,11 +76,9 @@ class App extends Component {
         <form>
           <input type="text" onChange={this.onSearchChange} />
         </form>
-        {this.state.list
+        {list
           .filter((item) =>
-            item.title
-              .toLowerCase()
-              .includes(this.state.searchTerm.toLowerCase())
+            item.title.toLowerCase().includes(searchTerm.toLowerCase())
           )
           .map((item) => (
             <div key={item.objectID}>
