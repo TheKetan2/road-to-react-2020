@@ -74,7 +74,11 @@ class App extends Component {
       // </div>
       <div className="App">
         <form>
-          <input type="text" onChange={this.onSearchChange} />
+          <input
+            type="text"
+            value={searchTerm}
+            onChange={this.onSearchChange}
+          />
         </form>
         {list
           .filter((item) =>
@@ -105,4 +109,4 @@ class App extends Component {
 
 export default App;
 
-// Page No: 59 Event Handler
+// Page No: 76 Split Up Components
