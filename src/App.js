@@ -109,4 +109,4 @@ class Button extends Component {
 }
 export default App;
 
-// Page No: 76 Split Up Components
+// Page No: 96 Split Up Components
