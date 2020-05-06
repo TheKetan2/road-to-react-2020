@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import axios from "axios";
 import "./App.css";
 
-const DEFAULT_QUERY = "redux";
+const DEFAULT_QUERY = "elon";
 const DEFAULT_HPP = "100";
 
 const PATH_BASE = "https://hn.algolia.com/api/v1";
