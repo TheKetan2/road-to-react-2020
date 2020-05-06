@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/road-to-react-2020/static/css/main.0c4e38fc.chunk.css",
+    "main.js": "/road-to-react-2020/static/js/main.60af2b1c.chunk.js",
+    "main.js.map": "/road-to-react-2020/static/js/main.60af2b1c.chunk.js.map",
+    "runtime-main.js": "/road-to-react-2020/static/js/runtime-main.5451963a.js",
+    "runtime-main.js.map": "/road-to-react-2020/static/js/runtime-main.5451963a.js.map",
+    "static/js/2.a1b18ed4.chunk.js": "/road-to-react-2020/static/js/2.a1b18ed4.chunk.js",
+    "static/js/2.a1b18ed4.chunk.js.map": "/road-to-react-2020/static/js/2.a1b18ed4.chunk.js.map",
+    "index.html": "/road-to-react-2020/index.html",
+    "precache-manifest.ad62e4694a3b239a791a1157cc73f4e0.js": "/road-to-react-2020/precache-manifest.ad62e4694a3b239a791a1157cc73f4e0.js",
+    "service-worker.js": "/road-to-react-2020/service-worker.js",
+    "static/css/main.0c4e38fc.chunk.css.map": "/road-to-react-2020/static/css/main.0c4e38fc.chunk.css.map",
+    "static/js/2.a1b18ed4.chunk.js.LICENSE.txt": "/road-to-react-2020/static/js/2.a1b18ed4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5451963a.js",
+    "static/js/2.a1b18ed4.chunk.js",
+    "static/css/main.0c4e38fc.chunk.css",
+    "static/js/main.60af2b1c.chunk.js"
+  ]
+}
