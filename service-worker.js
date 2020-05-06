@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/road-to-react-2020/precache-manifest.ad62e4694a3b239a791a1157cc73f4e0.js"
+  "/road-to-react-2020/precache-manifest.de75deb736e95f9262f4b6cd7cb8161c.js"
 );
 
 self.addEventListener('message', (event) => {

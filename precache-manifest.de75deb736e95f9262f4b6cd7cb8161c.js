@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "412ff92e7aba74ae74212188cf641a21",
+    "revision": "27126af9a6974870fa346fa48afc907e",
     "url": "/road-to-react-2020/index.html"
   },
   {
-    "revision": "432c468b9e4dc635d547",
+    "revision": "947c970596aa256f425a",
     "url": "/road-to-react-2020/static/css/main.0c4e38fc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/road-to-react-2020/static/js/2.a1b18ed4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "432c468b9e4dc635d547",
-    "url": "/road-to-react-2020/static/js/main.60af2b1c.chunk.js"
+    "revision": "947c970596aa256f425a",
+    "url": "/road-to-react-2020/static/js/main.ac40870c.chunk.js"
   },
   {
     "revision": "1c4c2d1228f9f4048596",
